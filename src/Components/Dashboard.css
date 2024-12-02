@@ -1,0 +1,48 @@
+/* src/SensorData.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+    padding-left: 10px;
+    background-image: url('https://th.bing.com/th/id/OIP.iV7RjAmRztRPSW1sg2IgkAHaC0?rs=1&pid=ImgDetMain');
+    background-size: cover; /* Cover the entire viewport */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Prevent the image from repeating */
+  }
+  
+  h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  .sensor-data {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+  
+  .sensor-data p {
+    font-size: 18px;
+    margin: 10px 0;
+  }
+  
+  .sensor-data span {
+    font-weight: bold;
+    color: #007BFF; /* Bootstrap primary color */
+  }
+  
+  .loading {
+    color: #888; /* Grey color for loading text */
+  }
+  /* src/SensorData.css */
+.recommendation {
+    background-color: #e7f3fe; /* Light blue background */
+    border-left: 6px solid #2196F3; /* Blue left border */
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 4px;
+  }
